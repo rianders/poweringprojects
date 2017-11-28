@@ -36,7 +36,7 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 * What do we know now?
 
 ---
-# Adventure: The Power Detective
+# Adventure: The Power Detective Team
 ---
 # What knowledge do he right now as a power detective?
 ---
@@ -44,7 +44,7 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 * Multimeter
 * Variable Power source
 ---
-# Scene of the crime 1
+# Scene of the crime 1: What has the power?
 A motor has fallen apart on the table. What's going on does it work?
 Parts: motor, wires with clips, power supply multimeter
 
