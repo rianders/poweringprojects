@@ -16,6 +16,8 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 
 ---
 # Agenda for the day
+## Inutition Exercise
+* Take all the coin cells and leds and sort by brightnes
 
 ## Two Adventures:
 1. The Power Detective
@@ -23,6 +25,22 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 
 ---
 # Let's get started
+ ## Inutition Exercise
+* Take all the coin cells and leds and sort by brightnes
+* Measure the values of the batteries in volts
+* Write this down on a big sheet of paper
+* Graph the results on x/y plane
+* Find the coin cell datasheet 
+* Exaimine the graph of voltages
+* What's happening here?
+* What do we know now?
 
 ---
+# Adventure: The Power Detective
+---
+# What knowledge do he right now as a power detective?
+---
+# What Does a Detective Need?
+---
+# Scene of the crime 1
 
