@@ -27,15 +27,15 @@ This is the resistance in the system. For instance a toy motor connected to a po
 
 But each device has a minimum of volts and amperage before it can even operate. So this system meets those min requirements and provides more so we can add our resistance into the system.
 
-===
-Experiment:
+
+# Experiment:
 Use the solar panel to collect energy and show it with an LED
 
 Experiment:
 Measure the energy from a solar panel
 
-===
-Experiment:
+
+# Experiment:
 The incandescent lamp is the base example.  Heat from the build.
 
 
