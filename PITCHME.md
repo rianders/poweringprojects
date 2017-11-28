@@ -41,6 +41,17 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 # What knowledge do he right now as a power detective?
 ---
 # What Does a Detective Need?
+* Multimeter
+* Variable Power source
 ---
 # Scene of the crime 1
+A motor has fallen apart on the table. What's going on does it work?
+Parts: motor, wires with clips, power supply multimeter
+
+Question what is power?
+---
+# Consult your brain augmentation
+* Data sheet
+* Ohms Law
+* Power Definition
 
