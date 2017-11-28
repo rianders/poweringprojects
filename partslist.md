@@ -9,11 +9,8 @@ Parts
 | Litium batteries | | |
 | Litium Battery charger | | |
 | Resistors | | |
+| LEDs | | |
+| Toy Motors | | |
 
-Test
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
