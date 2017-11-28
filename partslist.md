@@ -18,6 +18,8 @@ Parts
 | Solar Panel | | | | 
 | Adafruit 5v Chargers | | | |
 | Multimeter | | | |
+| Wires with clips | | | |
+
 
 
 
