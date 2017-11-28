@@ -17,6 +17,10 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 ---
 # Agenda for the day
 
+## Two Adventures:
+1. The Power Detective
+2. Hunt for Energy: Energey Scavenger Hunt
+
 ---
 # Let's get started
 
