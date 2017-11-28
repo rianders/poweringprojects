@@ -11,6 +11,13 @@ Parts
 | Resistors | | ||
 | LEDs | | ||
 | Toy Motors | | | |
+| Fidget Spinner  | | | | 
+| Magnets | | | | 
+| Fidget Spinners | | | |
+| Copper Coil/ Solenoid  | | | |
+| Solar Panel | | | | 
+| Adafruit 5v Chargers | | | |
+| Multimeter | | | |
 
 
 
