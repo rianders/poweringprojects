@@ -19,9 +19,9 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 ## Inutition Exercise
 * Take all the coin cells and leds and sort by brightnes
 
-## Two Adventures:
+## Let's Build Some Learning Adventures:
 1. The Power Detective
-2. Hunt for Energy: Energey Scavenger Hunt
+2. (Bonus) Hunt for Energy: Energey Scavenger Hunt
 
 ---
 # Let's get started
