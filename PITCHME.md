@@ -36,7 +36,7 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 * What do we know now?
 
 ---
-# Adventure: The Power Detective Team
+# Adventure: The Power Detective Team/Forensic Experts/Research Scientists
 ---
 # What knowledge do he right now as a power detective?
 ---
