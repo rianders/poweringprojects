@@ -40,18 +40,22 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 * Collect key terms
 * Review the graphs vs your own graph
 
-# Collect energy with a solar panel
-* Take the solar panel and an led try to find where the panel is the brightest.
-* Measure with a volt meter the voltage being collected
-* Introduce Current
-* Measure the current
-
 # Simulate a battery
 * Learn about a Benchtop Variable Power Supply
 * Set the voltage and current
 * Control a toy motor
 * Listen for the pitch of the motor in relation to rotation speed
 * Identify what is happening?
+
+# Collect energy with a solar panel
+* Take the solar panel and an led try to find where the panel is the brightest.
+* Measure with a volt meter the voltage being collected
+* Introduce Current
+* Measure the current
+
+# Solar panels and Motors
+* Connect toy motor to solar panel
+* Quesetion can you get it to go?
 
 # Datasheet: DC Motor
 * Collect key terms
