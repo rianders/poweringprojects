@@ -26,7 +26,11 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 
 ---
 # Let's get started
- ## Inutition Exercise
+ ## Inutition Exercise 1
+ * Burn out an LED
+ * How did you do it?
+ 
+ ## Intuition Exercise 2
 * Take all the coin cells and leds and sort by brightnes
 * Measure the values of the batteries in volts
 * Write this down on a big sheet of paper
