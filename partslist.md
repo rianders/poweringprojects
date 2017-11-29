@@ -14,7 +14,7 @@ Parts
 | Magnets |- [ x] | |24 | |
 | Fidget Spinners | - [x ]| 12| ||
 | Copper Coil/ Solenoid  |- [? ] | | ||
-| Solar Panel | - [ ]| | 9| |
+| ? Solar Panel | - [ ]| | 9| Optional |
 | Adafruit 5v Chargers |- [ x]| | ||
 | Multimeter |- [x ] | |9 ||
 | Wires with clips |- [ ] | | 30+ ||
