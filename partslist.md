@@ -11,7 +11,7 @@ Parts
 | Resistors |- [ ]| |30+ ||
 | LEDs | - [ x]| |30+||
 | Toy Motors | - [ x| | 9 ||
-| Magnets |- [ x] | | | 24|
+| Magnets |- [ x] | |24 | |
 | Fidget Spinners | - [x ]| 12| ||
 | Copper Coil/ Solenoid  |- [? ] | | ||
 | Solar Panel | - [ ]| | 9| |
