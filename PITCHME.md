@@ -114,9 +114,52 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 * What's the max it can take?
 
 ---
-# Power/Work over time Charging batteries
 
-#Brain Storming Acitivites for Students
+# Resistors in series vs parallel
+---
+
+# LEDs in series vs parallel
+
+---
+# Principle: Electronic components consume the current they need
+* Each device consumes current
+* Current consumption adds by each device attached
+---
+
+# Batteris in series and parallel
+* What happens when batteries are in series?
+* What happend when batteries are in parallel? 
+
+---
+# How to get the most out of a solar panel
+* Adafruit 5v charger
+* Solar Panel
+* Rechargable Battery
+* Takes these ingredients and build a charging set up
+* Check brightness 
+* Check how much battery is left
+* Try to power a motor
+
+---
+# Power/Work over time Charging batteries
+* These batteries are super low on energy
+* Measure voltage
+* Check the data sheet for the litium batteries
+* How hot do they get?
+* What role is heat playing?
+
+---
+# Time and Batteries
+* How long will they last?
+* Calculate the watts
+* Check the watt hours
+
+---
+# Questions for classes
+* What's the max voltage a typical project can handle?
+
+---
+# Brain Storming Acitivites for Students
 ---
 # Adventure: The Power Detective Team/Forensic Experts/Research Scientists
 ---
