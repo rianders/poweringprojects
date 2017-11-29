@@ -6,7 +6,7 @@ Parts
 | --- | --- | --- | --- | --- |
 | Power Supply |- [ x] |http://www.mcmelectronics.com/product/DISTRIBUTED-BY-MCM-PS3005-/72-11885 | 3 | For class |
 | Coin cells used |- [ x]| 30+ ||
-| Lithium batteries |- [ ]| 9-12  | |
+| Lithium batteries |- [ x ]| 9-12  | |
 | Lithium Battery charger |- [x ]| Adafruit charger  | ||
 | Resistors |- [ ]| |30+ ||
 | LEDs | - [ x]| |30+||
@@ -17,7 +17,7 @@ Parts
 | ? Solar Panel | - [ ]| | 9| Optional |
 | Adafruit 5v Chargers |- [ x]| | ||
 | Multimeter |- [x ] | |9 ||
-| Wires with clips |- [ ] | | 30+ ||
+| Wires with clips |- [ x] | | 30+ ||
 
 
 
