@@ -16,9 +16,10 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 
 ---
 # Agenda for the day
-## Inutition Exercise
+## Intuition Exercise
 * Take all the coin cells and leds and sort by brightnes
-
+## Collecting Energy
+## 
 ## Let's Build Some Learning Adventures:
 1. The Power Detective
 2. (Bonus) Hunt for Energy: Energey Scavenger Hunt
@@ -39,6 +40,12 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 * Collect key terms
 * Review the graphs vs your own graph
 
+# Collect energy with a solar panel
+* Take the solar panel and an led try to find where the panel is the brightest.
+* Measure with a volt meter the voltage being collected
+* Introduce Current
+* Measure the current
+
 # Simulate a battery
 * Learn about a Benchtop Variable Power Supply
 * Set the voltage and current
@@ -49,6 +56,7 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 # Datasheet: DC Motor
 * Collect key terms
 * Compare to the graph the data gathered
+
 
 
 #Brain Storming Acitivites for Students
