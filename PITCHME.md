@@ -35,6 +35,23 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 * What's happening here?
 * What do we know now?
 
+# Datasheet: Coin Cell
+* Collect key terms
+* Review the graphs vs your own graph
+
+# Simulate a battery
+* Learn about a Benchtop Variable Power Supply
+* Set the voltage and current
+* Control a toy motor
+* Listen for the pitch of the motor in relation to rotation speed
+* Identify what is happening?
+
+# Datasheet: DC Motor
+* Collect key terms
+* Compare to the graph the data gathered
+
+
+#Brain Storming Acitivites for Students
 ---
 # Adventure: The Power Detective Team/Forensic Experts/Research Scientists
 ---
