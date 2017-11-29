@@ -61,11 +61,36 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 * Connect toy motor to solar panel
 * Quesetion can you get it to go?
 
+# Connect Motor to Power Supply
+* How dow we get it to start?
+* What values do see when it turns on?
+* Create a note list of values
+* Slow the motor with your fingers.
+* What do you feel?
+* You are the resistor
+
 # Datasheet: DC Motor
 * Collect key terms
 * Compare to the graph the data gathered
 
+# Unifying the experience with principals
+* Resistance
+* Current
+* Voltage
 
+# Finally a discussion of Ohm's Law
+* Volts = Current * Resistance
+* V = IR
+* There is no escape from this principal
+
+# Power Principal
+* How much work is going on here?
+* Watt's
+* Power = Volts * Current
+* W = V * I
+* Calculated for steady state
+
+# Power/Work over time Charging batteries
 
 #Brain Storming Acitivites for Students
 ---
