@@ -103,6 +103,17 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 * W = V * I
 * Calculated for steady state
 ---
+# What is the role of heat?
+* You could feel heat?
+* Heat can go past the tolerance of the part
+---
+# Burnning up a resistor
+* Check the wattage of your resistor
+* Datasheet of a resistor
+* What is a 1/4 watt?
+* What's the max it can take?
+
+---
 # Power/Work over time Charging batteries
 
 #Brain Storming Acitivites for Students
