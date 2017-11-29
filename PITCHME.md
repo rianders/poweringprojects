@@ -29,6 +29,7 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
  ## Inutition Exercise 1
  * Burn out an LED
  * How did you do it?
+ 
  ---
  ## Intuition Exercise 2
 * Take all the coin cells and leds and sort by brightnes
@@ -39,10 +40,12 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 * Exaimine the graph of voltages
 * What's happening here?
 * What do we know now?
+
 ---
 # Datasheet: Coin Cell
 * Collect key terms
 * Review the graphs vs your own graph
+
 ---
 # Simulate a battery
 * Learn about a Benchtop Variable Power Supply
@@ -50,6 +53,7 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 * Control a toy motor
 * Listen for the pitch of the motor in relation to rotation speed
 * Identify what is happening?
+---
 
 # Collect energy with a solar panel
 * Take the solar panel and an led try to find where the panel is the brightest.
@@ -57,10 +61,12 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 * Introduce Current
 * Measure the current
 ---
+
 # Solar panels and Motors
 * Connect toy motor to solar panel
 * Quesetion can you get it to go?
 ---
+
 # Connect Motor to Power Supply
 * How dow we get it to start?
 * What values do see when it turns on?
@@ -69,20 +75,27 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 * What do you feel?
 * You are the resistor
 ---
+
 # Datasheet: DC Motor
 * Collect key terms
 * Compare to the graph the data gathered
+
 ---
+
 # Unifying the experience with principals
 * Resistance
 * Current
 * Voltage
+
 ---
+
 # Finally a discussion of Ohm's Law
 * Volts = Current * Resistance
 * V = IR
 * There is no escape from this principal
+
 ---
+
 # Power Principal
 * How much work is going on here?
 * Watt's
