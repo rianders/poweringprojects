@@ -22,3 +22,4 @@ Parts
 
 
 
+Vibration Motor from Adafruit: https://www.adafruit.com/product/1201
