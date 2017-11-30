@@ -133,6 +133,12 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 ---
 
 ## LEDs in series vs parallel
+* How many leds can be placed in series with a 3v coin cell?
+* How many leds can be placed in parallel with a 3v coin cell?
+* Measure the current
+* Measure the voltage
+* What is the voltage drop?
+* Compare with the datasheet?
 
 ---
 ## Principle: Electronic components consume the current they need
