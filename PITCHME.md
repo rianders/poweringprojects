@@ -196,11 +196,15 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 ---
 ## Adventure: The Power Detective Team/Forensic Experts/Research Scientists
 ---
-## What knowledge do he right now as a power detective?
+## What knowledge does the team need to know?
+* Limited set of ingredients
+* Small challenge
+
 ---
 ## What Does a Detective Need?
 * Multimeter
 * Variable Power source
+
 ---
 ## Scene of the crime 1: What has the power?
 A motor has fallen apart on the table. What's going on does it work?
