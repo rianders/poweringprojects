@@ -16,6 +16,7 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 ---
 # Who are you? Who am I/We?
 
+
 ---
 ## Agenda for the day
 * Intuition Exercises
