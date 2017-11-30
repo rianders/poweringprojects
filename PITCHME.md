@@ -78,7 +78,19 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 * Compare to the graph the data gathered
 
 ---
+## Multimeter
+* Measure Resistance
+* Measure Current (Change the plugs)
+* Measure Voltage
+* What else does this information get us?
 
+---
+## Units
+* Volts 
+* Current (milli amps)
+* Resistance (Ohms)
+
+---
 ## Unifying the experience with principals
 * Resistance
 * Current
@@ -176,9 +188,6 @@ Question what is power?
 * Data sheet
 * Ohms Law
 * Power Definition
----
-# Ohm's Law
-
 ---
 
 ## Appendix I
