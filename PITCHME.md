@@ -16,11 +16,15 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 
 ---
 # Agenda for the day
+* Intuition Exercise
+* Framing assignments and challenges
+
 ## Intuition Exercise
 * Take all the coin cells and leds and sort by brightnes
-## Collecting Energy
-## 
-## Let's Build Some Learning Adventures:
+
+---
+#  Framing assignments and challenges
+## Ideas Learning Adventures:
 1. The Power Detective
 2. (Bonus) Hunt for Energy: Energey Scavenger Hunt
 
@@ -184,3 +188,5 @@ Question what is power?
 
 
 
+# Appendix I
+## Collection Energy Solar Panels
