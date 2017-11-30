@@ -116,6 +116,11 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 * Power = Volts * Current
 * W = V * I
 * Calculated for steady state
++++
+## Time
+* Power and Time
+* Formal definition of power
+
 ---
 ## What is the role of heat?
 * You could feel heat?
@@ -130,6 +135,9 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 ---
 
 ## Resistors in series vs parallel
+* How low can you drop the source voltage of 9v battery using resistors in series?
+* What happends when you drop put the same number of resistors in parallel?
+
 ---
 
 ## LEDs in series vs parallel
