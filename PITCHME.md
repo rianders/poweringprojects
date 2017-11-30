@@ -21,6 +21,8 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 * Intuition Exercise
 * Framing assignments and challenges
 
+---
+
 ## Intuition Exercise
 * Take all the coin cells and leds and sort by brightnes
 
