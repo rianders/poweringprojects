@@ -119,7 +119,7 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 * Current consumption adds by each device attached
 ---
 
-# Batteris in series and parallel
+# Batteries in series and parallel
 * What happens when batteries are in series?
 * What happend when batteries are in parallel? 
 
