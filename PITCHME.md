@@ -59,17 +59,6 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 * Identify what is happening?
 ---
 
-# Collect energy with a solar panel
-* Take the solar panel and an led try to find where the panel is the brightest.
-* Measure with a volt meter the voltage being collected
-* Introduce Current
-* Measure the current
----
-
-# Solar panels and Motors
-* Connect toy motor to solar panel
-* Quesetion can you get it to go?
----
 
 # Connect Motor to Power Supply
 * How dow we get it to start?
@@ -186,7 +175,17 @@ Question what is power?
 ---
 # Ohm's Law
 
-
+---
 
 # Appendix I
 ## Collection Energy Solar Panels
+* Take the solar panel and an led try to find where the panel is the brightest.
+* Measure with a volt meter the voltage being collected
+* Introduce Current
+* Measure the current
+---
+
+# Solar panels and Motors
+* Connect toy motor to solar panel
+* Quesetion can you get it to go?
+---
