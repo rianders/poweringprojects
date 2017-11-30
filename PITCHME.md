@@ -18,8 +18,12 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 
 ---
 ## Agenda for the day
-* Intuition Exercise
-* Framing assignments and challenges
+* Intuition Exercises
+* Exploring leds
+* Exploring motors
+* Basic Electronic components in parallel and series
+* Learning about data sheets
+* Framing assignments and challenges for students
 
 ---
 
