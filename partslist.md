@@ -10,7 +10,7 @@ Parts
 | Lithium Battery charger |- [x ]| Adafruit charger  | ||
 | Resistors |- [ ]| |30+ ||
 | LEDs | - [ x]| |30+||
-| Toy Motors | - [ x| | 9 ||
+| Toy Motors | - [ x| https://www.adafruit.com/product/711| 9 ||
 | Magnets |- [ x] | |24 | |
 | Fidget Spinners | - [x ]| 12| ||
 | ? Copper Coil/ Solenoid  |- [? ] | | | Optional |
