@@ -158,15 +158,6 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 * What happens when batteries are in series?
 * What happend when batteries are in parallel? 
 
----
-## How to get the most out of a solar panel
-* Adafruit 5v charger
-* Solar Panel
-* Rechargable Battery
-* Takes these ingredients and build a charging set up
-* Check brightness 
-* Check how much battery is left
-* Try to power a motor
 
 ---
 ## Power/Work over time Charging batteries
@@ -181,6 +172,20 @@ Need more energy for your projects? How many LEDs can I use in a project? When w
 * How long will they last?
 * Calculate the watts
 * Check the watt hours
+
+---
+## Putting energy back in the bottle
+* Charging batteries
+* Check out the chargers
+* Hook up some batteries are charge them
+---
+## RC Car example
+* Uses NiMH
+* Measure current voltage
+* Is it at max?
+* Drive it around
+* Measure the voltage
+* Let's charge it back up
 
 ---
 ## Questions for classes
@@ -221,3 +226,11 @@ Question what is power?
 * Connect toy motor to solar panel
 * Quesetion can you get it to go?
 ---
+## How to get the most out of a solar panel
+* Adafruit 5v charger
+* Solar Panel
+* Rechargable Battery
+* Takes these ingredients and build a charging set up
+* Check brightness 
+* Check how much battery is left
+* Try to power a motor
